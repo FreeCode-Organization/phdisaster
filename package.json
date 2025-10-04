@@ -1,0 +1,19 @@
+{
+  "name": "philippine-disaster-rescue-system",
+  "version": "1.0.0",
+  "description": "Emergency Response and Rescue Coordination Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "disaster",
+    "rescue",
+    "emergency",
+    "philippines"
+  ],
+  "author": "",
+  "license": "MIT",
+  "main": "index.js"
+}
